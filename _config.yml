@@ -1,6 +1,6 @@
 name: INharmonics
 favicon: null
-layout_spectrum: 0.14952671970240772
+layout_spectrum: 1
 typography_spectrum: 0.74763
 title: Game Audio Crafter - for all your Game Audio needs
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.039451777236536145
-  lightness: 0.4380692292470485
-  saturation: 0.31514170789159834
-  rhythmicContrast: 0.0905771825928241
+    - '#63c0e2'
+    - '#a7839f'
+    - '#ffffff'
+    - '#b3b3cc'
+    - '#8080ff'
+  brandStrength: 0.9375
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
