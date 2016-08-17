@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Game Audio Crafter - for all your Game Audio needs]]></title>
+        <description><![CDATA[Game Audio Crafter - for all your Game Audio needs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 15:48:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We've been really happy to work with SemiSoft to create their auditory world of Legrand.</p>]]></description>
+            <link>undefinedweve-been-really-happy-to-work-with-semisoft-to-create-thei/index.html</link>
+            <guid isPermaLink="false">8f42085e-5c3e-4671-a2c4-986c26d1326f</guid>
+            <pubDate>Wed, 17 Aug 2016 15:48:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
